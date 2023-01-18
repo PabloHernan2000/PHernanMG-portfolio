@@ -150,8 +150,4 @@ header{
     #check:checked ~ .menu{
         right: 0; /* El menu se muestra */
     }
-
-    .acercaMi > .nombre h2{
-        font-size: 40px;
-    }
 }
